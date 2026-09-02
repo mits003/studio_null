@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Tags on Studio Null</title>
-		<link>http://localhost:1313/studio_null/tags/</link>
+		<link>https://mits003.github.io/studio_null/tags/</link>
 		<description>Recent content in Tags on Studio Null</description>
 		<generator>Hugo</generator>
 		<language>en-us</language>
@@ -12,61 +12,61 @@
 		
 			<lastBuildDate>Sun, 21 Nov 2021 09:39:49 +0900</lastBuildDate>
 		
-			<atom:link href="http://localhost:1313/studio_null/tags/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="https://mits003.github.io/studio_null/tags/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Creative Coding</title>
-				<link>http://localhost:1313/studio_null/tags/creative-coding/</link>
+				<link>https://mits003.github.io/studio_null/tags/creative-coding/</link>
 				<pubDate>Sun, 21 Nov 2021 09:39:49 +0900</pubDate>
-				<guid>http://localhost:1313/studio_null/tags/creative-coding/</guid>
+				<guid>https://mits003.github.io/studio_null/tags/creative-coding/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Gis</title>
-				<link>http://localhost:1313/studio_null/tags/gis/</link>
+				<link>https://mits003.github.io/studio_null/tags/gis/</link>
 				<pubDate>Sun, 21 Nov 2021 09:39:49 +0900</pubDate>
-				<guid>http://localhost:1313/studio_null/tags/gis/</guid>
+				<guid>https://mits003.github.io/studio_null/tags/gis/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Visualization</title>
-				<link>http://localhost:1313/studio_null/tags/visualization/</link>
+				<link>https://mits003.github.io/studio_null/tags/visualization/</link>
 				<pubDate>Sun, 21 Nov 2021 09:39:49 +0900</pubDate>
-				<guid>http://localhost:1313/studio_null/tags/visualization/</guid>
+				<guid>https://mits003.github.io/studio_null/tags/visualization/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Mapbox</title>
-				<link>http://localhost:1313/studio_null/tags/mapbox/</link>
+				<link>https://mits003.github.io/studio_null/tags/mapbox/</link>
 				<pubDate>Wed, 18 Aug 2021 17:40:31 +0900</pubDate>
-				<guid>http://localhost:1313/studio_null/tags/mapbox/</guid>
+				<guid>https://mits003.github.io/studio_null/tags/mapbox/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>MapTiler</title>
-				<link>http://localhost:1313/studio_null/tags/maptiler/</link>
+				<link>https://mits003.github.io/studio_null/tags/maptiler/</link>
 				<pubDate>Wed, 18 Aug 2021 17:40:31 +0900</pubDate>
-				<guid>http://localhost:1313/studio_null/tags/maptiler/</guid>
+				<guid>https://mits003.github.io/studio_null/tags/maptiler/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Gdal</title>
-				<link>http://localhost:1313/studio_null/tags/gdal/</link>
+				<link>https://mits003.github.io/studio_null/tags/gdal/</link>
 				<pubDate>Sun, 11 Jul 2021 21:50:43 +0900</pubDate>
-				<guid>http://localhost:1313/studio_null/tags/gdal/</guid>
+				<guid>https://mits003.github.io/studio_null/tags/gdal/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Dem</title>
-				<link>http://localhost:1313/studio_null/tags/dem/</link>
+				<link>https://mits003.github.io/studio_null/tags/dem/</link>
 				<pubDate>Sun, 11 Jul 2021 19:04:19 +0900</pubDate>
-				<guid>http://localhost:1313/studio_null/tags/dem/</guid>
+				<guid>https://mits003.github.io/studio_null/tags/dem/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Raster</title>
-				<link>http://localhost:1313/studio_null/tags/raster/</link>
+				<link>https://mits003.github.io/studio_null/tags/raster/</link>
 				<pubDate>Sun, 11 Jul 2021 19:04:19 +0900</pubDate>
-				<guid>http://localhost:1313/studio_null/tags/raster/</guid>
+				<guid>https://mits003.github.io/studio_null/tags/raster/</guid>
 				<description></description>
 			</item>
 	</channel>
